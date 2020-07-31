@@ -1,20 +1,20 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "title": "Grill Cheese",
         "ing": "bread and cheese",
         "prep": "Time",
         "notes": ""
     },
     {
-        "id": "2",
+        "id": 2,
         "title": "creme bru",
         "ing": "cream, eggs, sugar",
         "prep": "Time",
         "notes": ""
     },
     {
-        "id": "3",
+        "id": 3,
         "title": "chicken tacos",
         "ing": "chicken, tortillas",
         "prep": "Time",

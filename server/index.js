@@ -7,6 +7,7 @@ app.use(express.json());
 
 
 app.get('/api/recipes', ctrl.getRecipes)
+// app.post('/api/note/:id', ctrl.addNote)
 
 
 
