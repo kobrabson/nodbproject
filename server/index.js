@@ -6,7 +6,7 @@ const port = 4020;
 app.use(express.json());
 
 
-
+app.get('/api/recipes', ctrl.getRecipes)
 
 
 
